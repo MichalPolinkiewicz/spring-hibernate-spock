@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="0" passed="0" failed="0" skipped="0">
+<testng-results skipped="0" failed="0" ignored="0" total="0" passed="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2018-09-24T19:52:24Z" name="pl.springAndHibernate.dao.DaoTest" finished-at="2018-09-24T19:52:24Z" duration-ms="5">
+  <suite name="pl.springAndHibernate.dao.DaoTest" duration-ms="15" started-at="2018-10-23T12:24:01Z" finished-at="2018-10-23T12:24:01Z">
     <groups>
     </groups>
-    <test started-at="2018-09-24T19:52:24Z" name="Command line test" finished-at="2018-09-24T19:52:24Z" duration-ms="5">
+    <test name="Command line test" duration-ms="15" started-at="2018-10-23T12:24:01Z" finished-at="2018-10-23T12:24:01Z">
     </test> <!-- Command line test -->
   </suite> <!-- pl.springAndHibernate.dao.DaoTest -->
 </testng-results>
