@@ -2,44 +2,48 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dda4e8df-1f79-492a-aec7-1112b004c214" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceTestConfig.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/dao/CatRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/dao/CatRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate-prod.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/groovy/pl/springAndHibernate/dao/DaoSpec.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/groovy/pl/springAndHibernate/dao/DaoSpec.groovy" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/pl/springAndHibernate/dao/DaoTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/pl/springAndHibernate/dao/DaoTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/hibernate-prod.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate-prod.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/hibernate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/hibernate.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/hibernate.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/hibernate.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/pl/springAndHibernate/config/PersistenceConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/springAndHibernate/config/PersistenceConfig.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/springAndHibernate/config/PersistenceTestConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/springAndHibernate/dao/CatRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/springAndHibernate/dao/CatRepository.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/springAndHibernate-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/springAndHibernate-1.0-SNAPSHOT.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.springAndHibernate.dao.DaoTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.springAndHibernate.dao.DaoTest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/classes.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/classes.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/main.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/main.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/methods-alphabetical.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/methods-alphabetical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/methods-not-run.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/methods-not-run.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/methods.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/methods.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/testng.xml.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/testng.xml.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/toc.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/toc.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.springAndHibernate.dao.DaoTest.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.springAndHibernate.dao.DaoTest.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.springAndHibernate.dao.DaoTest/Command line test.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.springAndHibernate.dao.DaoTest/Command line test.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.springAndHibernate.dao.DaoTest/Command line test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/pl.springAndHibernate.dao.DaoTest/Command line test.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/springAndHibernate/dao/DaoSpec.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/springAndHibernate/dao/DaoSpec.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/pl/springAndHibernate/dao/DaoTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/pl/springAndHibernate/dao/DaoTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-pl.springAndHibernate.dao.DaoTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/failed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/Command line test.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/classes.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/groups.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/main.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/methods-alphabetical.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/methods-not-run.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/methods.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/reporter-output.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/testng.xml.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/old/pl.springAndHibernate.dao.DaoTest/toc.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/passed.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.springAndHibernate.dao.DaoTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.springAndHibernate.dao.DaoTest/Command line test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/pl.springAndHibernate.dao.DaoTest/Command line test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/skipped.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/testng.css" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -73,30 +77,30 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="groovy" value="91" />
-          <entry key="java" value="592" />
-          <entry key="properties" value="88" />
-          <entry key="xml" value="7" />
+          <entry key="groovy" value="93" />
+          <entry key="java" value="865" />
+          <entry key="properties" value="104" />
+          <entry key="xml" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Groovy" value="91" />
-          <entry key="JAVA" value="592" />
-          <entry key="Properties" value="88" />
-          <entry key="XML" value="7" />
+          <entry key="Groovy" value="93" />
+          <entry key="JAVA" value="865" />
+          <entry key="Properties" value="104" />
+          <entry key="XML" value="97" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="6" />
-          <entry key="properties" value="1" />
+          <entry key="java" value="9" />
+          <entry key="properties" value="3" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="6" />
-          <entry key="Properties" value="1" />
+          <entry key="JAVA" value="9" />
+          <entry key="Properties" value="3" />
         </counts>
       </usages-collector>
     </session>
@@ -106,8 +110,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="154">
-              <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
+            <state relative-caret-position="255">
+              <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -115,8 +119,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/groovy/pl/springAndHibernate/dao/DaoSpec.groovy">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="341">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="256">
+              <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
               <folding>
                 <element signature="e#35#96#0" expanded="true" />
               </folding>
@@ -125,31 +129,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/springAndHibernate/dao/DaoTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate-prod.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-17">
-              <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+            <state relative-caret-position="-152">
+              <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -158,10 +141,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/dao/CatRepository.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceTestConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="34" selection-start-column="34" selection-end-column="34" />
+            <state relative-caret-position="136">
+              <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -170,10 +153,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/dao/Cat.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceProdConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="19" selection-start-line="10" selection-start-column="19" selection-end-line="10" selection-end-column="19" />
+            <state relative-caret-position="204">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -201,14 +184,15 @@
         <option value="$PROJECT_DIR$/src/test/java/Test.java" />
         <option value="$PROJECT_DIR$/src/test/groovy/pl/springAndHibernate/dao/DaoConfig.groovy" />
         <option value="$PROJECT_DIR$/src/main/resources/test.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceTestConfig.java" />
-        <option value="$PROJECT_DIR$/src/main/resources/hibernate.properties" />
         <option value="$PROJECT_DIR$/src/main/resources/hibernate-prod.properties" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/dao/CatRepository.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/springAndHibernate/dao/DaoTest.java" />
+        <option value="$PROJECT_DIR$/src/main/resources/hibernate.properties" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/dao/CatRepository.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceTestConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceProdConfig.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceConfig.java" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/groovy/pl/springAndHibernate/dao/DaoSpec.groovy" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -313,13 +297,6 @@
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="dao" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="spring-hibernate-spock" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spring-hibernate-spock" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="dao" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -329,7 +306,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540300956456" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1540303962468" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
   </component>
@@ -480,44 +457,44 @@
       <workItem from="1537982373937" duration="32000" />
       <workItem from="1539107691932" duration="937000" />
       <workItem from="1539108686048" duration="10000" />
-      <workItem from="1540297293770" duration="3466000" />
+      <workItem from="1540297293770" duration="6696000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="DaoTest_activeProfileShouldBeTest - 2018.10.23 at 15h 05m 30s.xml">
-      <configuration name="DaoTest.activeProfileShouldBeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DaoTest_activeProfileShouldBeTest - 2018.10.23 at 15h 07m 06s.xml">
-      <configuration name="DaoTest.activeProfileShouldBeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="DaoSpec - 2018.10.23 at 15h 10m 55s.xml">
+    <history-entry file="DaoSpec - 2018.10.23 at 16h 07m 27s.xml">
       <configuration name="DaoSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoSpec - 2018.10.23 at 15h 13m 42s.xml">
+    <history-entry file="DaoSpec - 2018.10.23 at 16h 07m 42s.xml">
       <configuration name="DaoSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoSpec - 2018.10.23 at 15h 14m 23s.xml">
+    <history-entry file="DaoSpec - 2018.10.23 at 16h 07m 57s.xml">
       <configuration name="DaoSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoSpec - 2018.10.23 at 15h 15m 23s.xml">
+    <history-entry file="DaoSpec - 2018.10.23 at 16h 09m 00s.xml">
       <configuration name="DaoSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoSpec - 2018.10.23 at 15h 15m 46s.xml">
+    <history-entry file="DaoSpec - 2018.10.23 at 16h 09m 46s.xml">
       <configuration name="DaoSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoSpec - 2018.10.23 at 15h 16m 45s.xml">
+    <history-entry file="DaoSpec - 2018.10.23 at 16h 10m 42s.xml">
       <configuration name="DaoSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoSpec - 2018.10.23 at 15h 17m 39s.xml">
+    <history-entry file="DaoSpec - 2018.10.23 at 16h 11m 09s.xml">
       <configuration name="DaoSpec" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="DaoSpec_active_profile_should_be_test - 2018.10.23 at 15h 19m 36s.xml">
+    <history-entry file="DaoSpec - 2018.10.23 at 16h 11m 42s.xml">
+      <configuration name="DaoSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoSpec - 2018.10.23 at 16h 12m 30s.xml">
+      <configuration name="DaoSpec" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DaoSpec_active_profile_should_be_test - 2018.10.23 at 16h 12m 52s.xml">
       <configuration name="DaoSpec.active profile should be test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="17255000" />
+    <option name="totallyTimeSpent" value="20485000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-168" width="1936" height="1056" extended-state="6" />
@@ -532,7 +509,7 @@
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
       <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3383948" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -540,8 +517,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Application Servers" order="7" weight="0.32879046" />
       <window_info anchor="bottom" id="Spring" order="8" weight="0.32954547" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.3253796" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.49946696" weight="0.3253796" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.3253796" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.4262473" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
@@ -610,10 +587,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/pl/springAndHibernate/dao/DaoConfig.groovy" />
     <entry file="file://$PROJECT_DIR$/src/test/groovy/pl/springAndHibernate/config/PersistenceTestConfig.java" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceTestConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/springAndHibernate/dao/DaoTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="32" column="16" selection-start-line="32" selection-start-column="16" selection-end-line="32" selection-end-column="16" />
+        <state relative-caret-position="374">
+          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -623,14 +600,7 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate-test.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate-prod.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" selection-start-line="1" selection-end-line="1" selection-end-column="5" />
+          <caret line="8" column="13" lean-forward="true" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -644,20 +614,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceConfig.java">
+    <entry file="file://$PROJECT_DIR$/src/main/resources/hibernate.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-17">
-          <caret line="72" column="16" selection-start-line="72" selection-start-column="16" selection-end-line="72" selection-end-column="16" />
+        <state relative-caret-position="289">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/dao/CatRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="61" selection-start-line="2" selection-start-column="61" selection-end-line="2" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceTestConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/dao/CatRepository.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="34" selection-start-column="34" selection-end-column="34" />
+        <state relative-caret-position="-152">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/springAndHibernate/config/PersistenceProdConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -666,25 +660,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="154">
-          <caret line="84" column="23" selection-start-line="84" selection-start-column="23" selection-end-line="84" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/springAndHibernate/dao/DaoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="32" column="5" lean-forward="true" selection-start-line="32" selection-start-column="5" selection-end-line="32" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="255">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/groovy/pl/springAndHibernate/dao/DaoSpec.groovy">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="256">
+          <caret line="21" column="46" selection-start-line="21" selection-start-column="46" selection-end-line="21" selection-end-column="46" />
           <folding>
             <element signature="e#35#96#0" expanded="true" />
           </folding>

@@ -1,4 +1,3 @@
 pl\springAndHibernate\config\PersistenceConfig.class
-pl\springAndHibernate\config\PersistenceTestConfig.class
 pl\springAndHibernate\dao\Cat.class
 pl\springAndHibernate\dao\CatRepository.class
